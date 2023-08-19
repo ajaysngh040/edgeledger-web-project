@@ -5,7 +5,7 @@ Financial website project which i created while i was learning HTML and CSS basi
 
 ## Solution
 
-solution link - 
+solution link - https://ajaysngh040.github.io/edgeledger-web-project/
 
 
 
